@@ -1,8 +1,8 @@
-# Mcknight
+# Vekst
 Welcome to Jahir Hill's Small Business Solutions Repository
 
 About This GitHub Repository
-Welcome to my Mcknight repository, dedicated to helping small businesses thrive in the digital world. In this repository, you'll find a treasure trove of resources, code snippets, and valuable insights aimed at enhancing your online presence, creating stunning websites and applications, and optimizing your existing web structures.
+Welcome to my Vekst repository, dedicated to helping small businesses thrive in the digital world. In this repository, you'll find a treasure trove of resources, code snippets, and valuable insights aimed at enhancing your online presence, creating stunning websites and applications, and optimizing your existing web structures.
 
 What We Offer
 Web Development
